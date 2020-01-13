@@ -1,13 +1,13 @@
-package com.spider.dc;
+package com.dc.spider;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DcApplicationTests {
+class SpiderApplicationTests {
 
-    @Test
-    void contextLoads() {
-    }
+	@Test
+	void contextLoads() {
+	}
 
 }
